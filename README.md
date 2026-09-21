@@ -1,7 +1,7 @@
 <div align="center">
 <img src="assets/logo.webp" alt="PicoClaw" width="512">
 
-<h1>PicoClaw: Ultra-Efficient AI Assistant in Go</h1>
+<h1>PicoClaw: Ultra-Efficient AI Assistant in Go.</h1>
 
 <h3>$10 Hardware · 10MB RAM · ms Boot · Let's Go, PicoClaw!</h3>
   <p>
